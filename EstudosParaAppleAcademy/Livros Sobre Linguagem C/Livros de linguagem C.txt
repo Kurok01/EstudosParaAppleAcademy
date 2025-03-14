@@ -1,0 +1,7 @@
+Livros de linguagem C:
+
+
+ESTRUTURAS DE DADOS USANDO C - https://www.cin.ufpe.br/~garme/public/(ebook)Estruturas%20de%20Dados%20Usando%20C%20(Tenenbaum).pdf
+
+
+C COMPLETO E TOTAL - https://www.inf.ufpr.br/lesoliveira/download/c-completo-total.pdf

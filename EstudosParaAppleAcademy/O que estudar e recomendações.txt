@@ -1,0 +1,87 @@
+O que estudar e recomendações gerais:
+
+
+• Programação estruturada
+-Vetor
+-Matriz
+-Ponteiro
+-Ponteiro para ponteiro
+-métodos de ordenação 
+-métodos de busca
+• Estrutura de dados
+-Lista encadeada
+-Pilha e fila
+-Árvore binária 
+-Grafo
+-Tabela hash
+
+• POO
+-Abstração 
+-Encapsulamento 
+-Herança 
+-Polimorfismo 
+
+• Lógica matemática 
+-Tabela verdade
+-Lógicas para concurso
+
+
+*Explicando um pouco de cada tópico:*
+Precisa da base da programação para conseguir entender vetores para frente, o básico engloba variáveis, estruturas condicionais, estruturas de repetição e funções. Botei ponteiro porque é um tópico que cai muito nas provas daqui, então é bom dominar bem eles.
+
+POO até então não foi cobrado codigo na prova, apenas o entendimento dos conceitos.
+
+Lógica matemática é parte do que aprende no ensino médio com a tabela verdade e o resto é com aqueles truques de lógica que normalmente cai em prova de concurso e tals (nada tao dificil so saber os macetes)
+
+
+
+
+*Repositorio com dicas, materiais e provas passadas do Apple Academy do IFCE:*
+
+https://github.com/ViniciusDeep/Developer-Academy-Studies
+
+
+
+
+
+
+*Recomendações de Kauã Miguel (Ex-Apple Academy):*
+
+
+"Para programação orientada a objetos eu recomendo aprender Java que é uma boa linguagem que incorpora POO mas o único resource bom que tenho é a documentação do Java. Não se apeguem a linguagem em si e mais nos conceitos :)
+
+"Ah, e esqueci de mencionar o melhor canal de tecnologia pra mim, o GOAT que voces deveriam assistir pra entender como as coisas funcionam. Ele tem video falando de tudo mas especificamente esse é sobre como funciona memory managemnt e alguns códigos em C (Fabio Akita) : 
+https://www.youtube.com/watch?v=YyWMN_0g3BQ". 
+
+
+
+
+"Um vídeo que tive que gravar sobre árvore binária em C para a matéria de Estrutura de dados (Tá bem corrido pq tinha tempo limitado, recomendo ver somente quando estiver confortável com C): 
+https://www.youtube.com/watch?v=7fwPj13AJOg".
+
+
+
+"Repositório da época em que tive estrutura de dados : 
+https://github.com/kauamiguel/estrutura-de-dados-2s-2023/tree/main".
+
+
+
+"Repositório pessoal de estrutura de dados com algoritmos mais complexos : https://github.com/kauamiguel/DataStructure".
+
+
+"E como eu acho que o conceito é mais importante que a linguagem, caso alguem seja mais familiarizado com python tenho esse repositório tb : https://github.com/kauamiguel/Graphs/tree/main/Exemplos" 
+
+
+
+"Galera da usp tb tem um repositório top pra computação:
+https://github.com/ropalma/ICMC-USP/tree/master/Principais%20Estruturas%20de%20Dados"
+
+
+
+
+
+
+
+
+
+

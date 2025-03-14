@@ -1,0 +1,69 @@
+*Linguagem C em Geral:*
+
+*Playlists do básico:*
+
+Eduardo Casavella - https://youtube.com/playlist?list=PLOXIs3c4k2TeQOyb-uQwHkKkpT1zPTWm6&si=XfniK_BrOTzhFx1S
+
+De aluno para aluno - https://youtube.com/playlist?list=PLa75BYTPDNKZWYypgOFEsX3H2Mg-SzuLW&si=SgNQgUosmBjEMGwq
+
+Programe seu futuro - https://youtu.be/yrWIlIVZHB0?si=RDIiKjqnEf_n5Ac5 (Esse tem outras playlists bem uteis)
+
+
+
+*Do básico ao avançado:* 
+
+w3Schools - https://www.w3schools.com/c/index.php
+
+
+
+*Funções:*
+
+https://youtu.be/niTmi2OiCto?feature=shared
+
+https://youtu.be/jd9PABbIvbA?feature=shared
+
+
+
+
+*Vetores:*
+
+https://youtu.be/4yVCGgEE9bc?feature=shared
+
+https://www.youtube.com/watch?v=5fSf9xSJK7c
+
+
+
+
+
+*Ponteiros:*
+
+https://youtu.be/2ybLD6_2gKM?si=XarcjRjkfAV9IdlG
+
+https://www.youtube.com/watch?v=w276EE-i8vI
+
+https://youtu.be/D5QvQmes198?feature=shared
+
+
+
+
+
+*Estrutura de dados:*
+
+https://youtube.com/playlist?list=PLqJK4Oyr5WSjQ584hwqaHJYDpDcYqS-HK&si=d71Di9C_0osMi8LE
+
+https://www.youtube.com/watch?v=Czcc5EUR_yQ&list=PLZp_AigPrZjPbjVydii2mQZ48jarYiv6L
+
+https://www.geeksforgeeks.org/
+
+
+
+
+*Lógica Matemática:*
+
+
+https://www.youtube.com/watch?v=PltqUuwR9ec&list=PLEfwqyY2ox85ShbZ1O0fXmkUxavBmSNaK
+
+https://youtu.be/tiARjzPh2pI?si=AzQvu9dNvap9Oum5
+
+
+
